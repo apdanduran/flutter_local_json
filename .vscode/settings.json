@@ -1,0 +1,12 @@
+{
+  "markdown.preview.fontSize": 30,
+  "editor.suggestFontSize": 20,
+  "debug.console.fontSize": 20,
+  "terminal.integrated.fontSize": 20,
+  "launch": {
+    "configurations": [],
+    "compounds": []
+  },
+"markdown.preview.lineHeight": 0,
+"editor.fontSize": 15
+}
